@@ -1,9 +1,12 @@
 <h1>Fundamentos de Javascript 🤺 🤖 👽</h1>
 <p>🎓 Repositório com as aulas e exercícios de Fundamentos de JavaScript 🎯</p>
-<p>## </p>
-<p># </p>
+
+##
+
 <h1>Nas pastas estão os códigos da aulas🔥</h1>
-<p># </p>
+
+##
+
 <h1>Sumário</h1>
 <ul>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-00'>Aula 00</a> - Um pouco sobre a história do JavaScript.</li>
