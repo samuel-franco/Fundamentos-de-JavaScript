@@ -10,7 +10,7 @@
 <h1>Sumário</h1>
 <ul>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-00'>Aula 00</a> - Um pouco sobre a história do JavaScript.</li>
-<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-01'>Aula 01</a> - Tipos-Primitivos</li>
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-01'>Aula 01</a> - use strict (Modo Estrito)</li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 02</a> - Boleanos</li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 03</a></li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 04</a></li>
