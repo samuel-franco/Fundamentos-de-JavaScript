@@ -2,7 +2,7 @@
 <p>🎓 Repositório com as aulas e exercícios de Fundamentos de JavaScript 🎯</p>
 <p>## </p>
 <p># </p>
-<h1>Códigos da aulas🔥</h1>
+<h1>Nas pastas estão os códigos da aulas🔥</h1>
 <p># </p>
 <h1>Sumário</h1>
 <ul>
