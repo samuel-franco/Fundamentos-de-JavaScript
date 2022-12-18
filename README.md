@@ -20,9 +20,9 @@
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 08</a></li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 09</a></li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 10</a></li>
-
 </ul>
-<p>#### </p>
+
+####
 <h4>🚧  Repositório 🔨 🔧 Em construção 🪛 ...  🚧</h4>
 <p>## </p>
 <p>### </p>
