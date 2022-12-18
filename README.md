@@ -9,10 +9,9 @@
 
 <h1>Sumário</h1>
 <ul>
-<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-00'>Aula 00</a> - Um pouco sobre a história do JavaScript.</li>
-<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-01'>Aula 01</a> - use strict (Modo Estrito)</li>
-<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 02</a> - LET VAR e CONST</li>
-<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 03</a></li>
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-00'>Aula 01</a> - Um pouco sobre a história do JavaScript.</li>
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-01'>Aula 02</a> - use strict (Modo Estrito)</li>
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 03</a> - LET VAR e CONST</li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 04</a></li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 05</a></li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 06</a></li>
@@ -20,6 +19,7 @@
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 08</a></li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 09</a></li>
 <li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 10</a></li>
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#xxxxxx'>Aula 11</a></li>
 </ul>
 
 ##
