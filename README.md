@@ -30,7 +30,7 @@
 
 <h3>Aula 00 - Um pouco sobre a história do JavaScript.</h3>
 
-<p>
+<p justify="content">
   JavaScript é uma linguagem de programação interpretada estruturada, de  script em alto nível com tipagem dinâmica fraca, multiparadigma e  estática também. Juntamente com HTML e CSS, o JavaScript é uma das três  principais tecnologias da internet que conhecemos hoje a World Wide Web.</p>
 <p>Começamos tudo em 1995. A World Wide Web tinha acabado de ser criada,  junto com a linguagem HTML e seus primeiros navegadores arcaicos. Eu não sei se você sabe, mas hoje em dia não existiriam sites modernos sem o  JavaScript, mas naquela época não tinha nada disso. As interatividades  eram praticamente inexistentes e nós tínhamos uma Internet muito mais  estática e sem graça. Basicamente, os navegadores que “brigavam” pelo  mercado eram o recém lançado Internet Explorer da Microsoft e o Netscape da empresa de mesmo nome.
 </p>
