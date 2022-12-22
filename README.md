@@ -43,23 +43,27 @@
 
 ##
 
-<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 03</a> - LET, VAR e o CONST</li>
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 03</a> - LET, VAR e o CONST</li><br>
 
-Em JavaScript eciste 4 maneiras de declarar uma variável:
+<p align="justify">
+<strong>O que é Variável?</strong>
 
+Em JavaScript existe 4 maneiras de declarar uma variável;
+  
     * Usando o VAR
     * Usando o LET
     * Usando o CONST
     * Usando NADA
-
+  
+</p>
+  
 <p align="justify">
-
-## O que é Variável?
-
-As variáveis são fundamentais para todas as linguagens de programação. As variáveis são usadas para armazenar dados, como sequência de texto, números, etc. Os dados ou valores armazenados nas variáveis podem ser definidos, atualizados e recuperados sempre que necessário. Em geral, variáveis são nomes simbólicos para valores. Você pode criar uma variável com a palavra chave qualquer que faça sentido para lembrar quando ela for usada em outra parte do código, enquanto o operador de atribuição (=) é usado para atribuir valor a uma variável, assim: 
+  As variáveis são fundamentais para todas as linguagens de programação. As variáveis são usadas para armazenar dados, como sequência de texto, números, etc. Os dados ou valores armazenados nas variáveis podem ser definidos, atualizados e recuperados sempre que necessário. Em geral, variáveis são nomes simbólicos para valores. Você pode criar uma variável com a palavra chave qualquer que faça sentido para lembrar quando ela for usada em outra parte do código, enquanto o operador de atribuição (=) é usado para atribuir valor a uma variável, assim: 
 
 var varName = nome;
-    
-![image](https://user-images.githubusercontent.com/84928607/209041530-95fb7317-aad9-49b8-a1f4-c9e4c514dfd4.png)
 </p>
+    
+![image](https://user-images.githubusercontent.com/84928607/209044583-e9d47bfe-fa82-4711-8ed4-eabd8d7d351d.png)
+
+
 
