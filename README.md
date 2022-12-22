@@ -43,7 +43,7 @@
 
 ##
 
-<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 03</a> - LET VAR e CONST</li>
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 03</a> - LET, VAR e o CONST</li>
 
 Em JavaScript eciste 4 maneiras de declarar uma variável:
 
