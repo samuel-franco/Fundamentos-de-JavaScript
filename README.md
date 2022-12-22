@@ -40,3 +40,26 @@
 <p align="justify">
   A Microsoft tinha um trunfo na manga: o Windows. O que ela fez foi  embutir o IE no sistema operacional, forçando todo mundo a usar o  navegador dela, sem sequer poder desinstalá-lo. O usuário padrão sequer  cogitaria instalar um segundo navegador como o Netscape, mesmo que o  segundo fosse bem melhor (e era). Pensando em oferecer uma experiência  digna de quebrar a barreira e fazer todo mundo ficar com vontade de  instalar o Netscape como um navegador extra, a empresa pensou em  adicionar funcionalidades exclusivas que o IE não tinha, uma delas nos  interessa bastante: INTERATIVIDADE. E foi em 1995 que um programador  chamado Brendan Eich (o cara aí ao lado) saiu da Silicon Graphics e foi  contratado e começou a trabalhar na Netscape. Ele tinha criado uma  linguagem chamada Mocha, que daria poderes especiais ao Netscape 2.0 que sairia no fim do ano. Ao entrar na empresa, Eich e a equipe mudaram o  nome da linguagem para LiveScript, mas essa nova alcunha demoraria  pouco. Muito se falava no mercado sobre uma poderosa linguagem chamada  Java. Os jornais a chamavam de “Linguagem do Futuro”, aquela que mudaria o mundo dali pra frente. Pensando em pegar uma “carona” na fama do  Java, a equipe resolveu rebatizar o LiveScript para JavaScript em uma  simples demonstração de decisão de puro marketing. E pra gerar ainda  mais confusão, mais tarde ainda surgiu uma parceria entre a Sun  Microsystems (criadora do Java) e a Netscape (criadora do JavaScript).
 </p>
+
+##
+
+<li><a href='https://github.com/samuel-franco/Fundamentos-Javascript-/tree/master#Aula-02'>Aula 03</a> - LET VAR e CONST</li>
+
+Em JavaScript eciste 4 maneiras de declarar uma variável:
+
+    * Usando o VAR
+    * Usando o LET
+    * Usando o CONST
+    * Usando NADA
+
+<p align="justify">
+
+## O que é Variável?
+
+As variáveis são fundamentais para todas as linguagens de programação. As variáveis são usadas para armazenar dados, como sequência de texto, números, etc. Os dados ou valores armazenados nas variáveis podem ser definidos, atualizados e recuperados sempre que necessário. Em geral, variáveis são nomes simbólicos para valores. Você pode criar uma variável com a palavra chave qualquer que faça sentido para lembrar quando ela for usada em outra parte do código, enquanto o operador de atribuição (=) é usado para atribuir valor a uma variável, assim: 
+
+var varName = nome;
+    
+![image](https://user-images.githubusercontent.com/84928607/209041530-95fb7317-aad9-49b8-a1f4-c9e4c514dfd4.png)
+</p>
+
